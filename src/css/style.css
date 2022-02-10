@@ -72,13 +72,13 @@ nav {
 	color: #fff;	
 }
 
-.title_container {
+.information_about_me {
     width: 100%;
     height: calc(100%-1073px) 
 	background: url(../img/picture2.jpg) 862px 227px/200px 200px no-repeat;  
 }
 
-.title_container h2 {
+.information_about_me h2 {
 	font-size: 26px;
 	font-weight: 500;
 	color: #000000;
@@ -87,14 +87,14 @@ nav {
 	text-transform: uppercase;
 }
 
-.title_container h3 {
+.information_about_me h3 {
 	font-size: 15px;
 	color: #000;
 	text-align: justify;
 	text-transform: none; 
 }
 
-.title_container input {
+.information_about_me input {
 	height: 40px;
 	text-align: center;
 	border: 2px solid #6d7682;
